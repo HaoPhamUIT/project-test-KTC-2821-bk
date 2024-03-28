@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "8A8C1893061164CCF373E8DC58F60517",
+  "keywordClasses": [
+    {
+      "name": "com.katalon.testcloud.FileExecutor",
+      "keywordMethods": [
+        {
+          "name": "getFileContent",
+          "parameters": [
+            {
+              "name": "fileName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

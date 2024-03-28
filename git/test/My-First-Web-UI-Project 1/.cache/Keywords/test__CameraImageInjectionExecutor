@@ -1,0 +1,49 @@
+{
+  "keywordFileContentHash": "3F5D47D572AE2CB9E4C03A0A3EF8160C",
+  "keywordClasses": [
+    {
+      "name": "com.katalon.testcloud.CameraImageInjectionExecutor",
+      "keywordMethods": [
+        {
+          "name": "injectImage",
+          "parameters": [
+            {
+              "name": "fileName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n   * Injects an image from \"Data Files/Test Cloud\" into the camera for testing purposes.\n   *\n   * @param fileName The name of the file to inject.\n   * @return true if the injection was successful, false if there was an error.\n   */"
+        },
+        {
+          "name": "exist",
+          "parameters": [
+            {
+              "name": "fileName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n   * Checks whether a file with the given name exist in \"Data Files/Test Cloud\".\n   *\n   * @param fileName The name of the file to check.\n   * @return true if the file exists, false otherwise.\n   */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

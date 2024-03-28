@@ -1,0 +1,68 @@
+{
+  "keywordFileContentHash": "BEF8443B36B9BFAE023E3468218A1001",
+  "keywordClasses": [
+    {
+      "name": "com.katalon.testcloud.FileExecutor",
+      "keywordMethods": [
+        {
+          "name": "getFileContent",
+          "parameters": [
+            {
+              "name": "fileName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n   * Download file content using base64 encoding.\n   *\n   * @param the given file name\n   * @return the file content in base64\n   */"
+        },
+        {
+          "name": "getFileDescriptor",
+          "parameters": [
+            {
+              "name": "fileName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n   * Retrieve file metadata.\n   *\n   * @param the given file name\n   * @return file metadata\n   */"
+        },
+        {
+          "name": "exist",
+          "parameters": [
+            {
+              "name": "fileName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n   * Check if file name exists.\n   *\n   * @param the given file name\n   * @return true if the file exists\n   */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
